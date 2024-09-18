@@ -260,6 +260,12 @@ function init() {
                         item.classList.add("fill-fade");
                         item.style.fill="#000000";
                     }
+                    for (var i=2; i<=105; i++) {
+                        var item = document.querySelector("#note-"+String(i));
+                        item.style.visibility = "visible";
+                        item.classList.add("fill-fade");
+                        item.style.fill="#000000";
+                    }
                 }
                 if (index === 8 && last != 8) {
                     for (var i=2; i<=243; i++) {
