@@ -23,6 +23,12 @@
             }
           },
           {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly2.html"
+            }
+          },
+          {
             "type": "text",
             "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
           },
