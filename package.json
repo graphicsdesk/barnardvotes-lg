@@ -34,7 +34,7 @@
   "spectate": {
     "USE_NEWS_NAV": true,
     "USE_EYE_NAV": false,
-    "USE_COVER_HED": false,
+    "USE_COVER_HED": true,
     "IS_EMBED": false,
     "DOC_URL": "https://docs.google.com/document/d/1XGSLgEj4oaeSSm4IR1Ji7Khiob-fFGqmJylyCixQ194/edit"
   }

@@ -10,17 +10,53 @@
         "body": [
           {
             "type": "text",
-            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+            "value": "Barnard faculty members passed two statements that call on the college to restore privileges for student protesters awaiting disciplinary adjudication and oppose the college’s enforcement of new policies, the Office of the Provost wrote in a Thursday email to faculty. The statements passed with an overwhelming majority of eligible faculty who participated in the vote."
           },
           {
             "type": "text",
-            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+            "value": "The voting results follow a Sept. 9 faculty meeting where Barnard’s faculty governance and procedures committee presented the two statements to members of the college’s administration."
+          },
+          {
+            "type": "text",
+            "value": "“We, the Faculty of Barnard College, urge the Barnard administration to restore all privileges to students who are not currently able to register for classes, attend classes, access campus, or access housing and meal service, while their cases are being adjudicated,” the first statement reads."
+          },
+          {
+            "type": "text",
+            "value": "The second statement focused on the college’s recently released and revised policies, including the Student Code of Conduct, the Campus Events and Approval Policy, and the Policy for Safe Campus Demonstrations. The faculty “condemn the administration’s lack of transparency regarding those policies and their enforcement,” the second statement reads."
+          },
+          {
+            "type": "text",
+            "value": "Of the 235 eligible faculty members, 167 voted on the statements presented. One hundred and forty-two faculty members voted in favor of the first statement, with 18 opposed and seven abstentions, according to the email. The second statement saw 133 faculty members vote in support, with 30 opposed and four abstentions. Statements passed by the faculty governance and procedures committee hold no legislative power."
+          },
+          {
+            "type": "text",
+            "value": "In a statement to Spectator, a Barnard spokesperson wrote that “We share in the faculty’s commitment to ensuring the College remains a welcoming and inclusive place that fosters students’ learning and development, and we look forward to our continued work together to achieve these goals.”"
           },
           {
             "type": "graphic",
             "value": {
               "asset": "scrolly.html"
             }
+          },
+          {
+            "type": "text",
+            "value": "At the faculty meeting, college administrators relayed the number of students who have faced and are currently facing disciplinary action by the college for allegedly participating in unauthorized protests."
+          },
+          {
+            "type": "text",
+            "value": "According to presentation slides from the faculty meeting reviewed by Spectator, a total of 86 students have undergone disciplinary proceedings since Oct. 7, 2023. Of the incidents reported, 75 students underwent disciplinary action for one incident, and 11 students underwent disciplinary action for two or more incidents, according to the slides."
+          },
+          {
+            "type": "text",
+            "value": "Each student with two or more incidents has had “at least one case resolved,” according to the presentation. Among the 11 students, four have “finalized” one-semester suspensions, and one student has a “finalized” two-semester suspension. Two students still have cases pending."
+          },
+          {
+            "type": "text",
+            "value": "Five students have “pending” disciplinary action. Of the pending cases, two students are enrolled in classes and have access to on-campus housing, while three are placed on interim suspension, according to the slides. Eighty-one incidents are resolved."
+          },
+          {
+            "type": "text",
+            "value": "No students have been expelled, according to the slides."
           },
           {
             "type": "graphic",
@@ -30,19 +66,69 @@
           },
           {
             "type": "text",
-            "value": "<i>Charlotte Li is a Graphics deputy editor. She can be contacted at </i><a href=\"mailto:charlotte.li@columbiaspectator.com\"><i>charlotte.li@columbiaspectator.com</i></a><i>.</i>"
+            "value": "Shayoni Mitra, senior lecturer of theater at Barnard, said she acts as a “faculty support person” to several students undergoing disciplinary proceedings for their alleged participation in unauthorized on-campus protests. She described her experience as “one of frustration” because she “cannot speak nor advocate for the student in any way during the hearing itself.”"
           },
           {
             "type": "text",
-            "value": "<i>Jun Yi Zhang is a Graphics reporter. She can be contacted at </i><a href=\"mailto:junyi.zhang@columbiaspectator.com\"><i>junyi.zhang@columbiaspectator.com</i></a><i>.</i>"
+            "value": "“In the room itself, to me, it always seems like students are being grilled without proper representation,” Mitra said. “I can’t even speak or share what I’m thinking or interject on behalf of the student if I think that’s necessary, because that’s not the role that’s assigned to me. So I think in general, I just have that frustration of feeling like students are really being cross-examined without adequate support or counsel present in the moment with them.”"
+          },
+          {
+            "type": "text",
+            "value": "Under the Barnard Student Code of Conduct, students are not allowed to bring legal representation. In contrast, the Rules of University Conduct allow for students to have an attorney present."
+          },
+          {
+            "type": "text",
+            "value": "Barnard released on Wednesday a new Expectations for Community Conduct document and a revised temporary <a href=\"https://www.columbiaspectator.com/news/2024/09/12/barnard-revises-temporary-policy-on-safe-campus-demonstrations/\">Policy on Safe Campus Demonstrations</a>. According to Barnard’s revised Policy for the Development and Revision Process for Barnard College Administrative Policies, “the Senior Staff may vote on a Policy without fully following the Policy Development Procedure outlined above,” when enacting “temporary policies.”"
+          },
+          {
+            "type": "text",
+            "value": "Spectator previously reported the college <a href=\"https://www.columbiaspectator.com/news/2024/03/08/barnard-quietly-revises-student-code-of-conduct-webpage-students-face-more-disciplinary-proceedings-for-campus-activism/\">unilaterally revised</a> the Student Code of Conduct without proper consultation or notification to the campus community sometime in fall 2023. Under the previous code, students were allowed to have an attorney present when they were “alleged to have engaged in conduct that potentially violates both the criminal law and this Student Code of Conduct.”"
+          },
+          {
+            "type": "text",
+            "value": "After former University President Minouche Shafik <a href=\"https://www.columbiaspectator.com/news/2024/04/18/shafik-authorizes-nypd-to-sweep-gaza-solidarity-encampment-officers-in-riot-gear-arrest-over-100/\">authorized</a> the April 18 New York Police Department sweep of the “Gaza Solidarity Encampment,” Barnard placed 55 students on interim suspension. Suspended students with campus housing were <a href=\"https://www.columbiaspectator.com/news/2024/04/23/barnard-suspends-and-evicts-at-least-53-students-outlines-steps-for-amnesty/\">evicted</a> from their dorms and given 15 minutes to collect their belongings under supervision of a Community, Accountability, Response, and Emergency Services Officer."
+          },
+          {
+            "type": "text",
+            "value": "Janet Jakobsen, professor of women’s, gender, and sexuality studies at Barnard and a faculty support person, said at the faculty meeting that an administrator clarified that all “pending” cases are for students allegedly involved in the occupation of Hamilton Hall."
+          },
+          {
+            "type": "text",
+            "value": "“I was surprised by that, because it’s my understanding that whether or not they were involved is one of the questions that the disciplinary process and its investigation should leave open, right?” Jakobsen said. “If we were to take an analogy to a legal hearing, you would have to acknowledge until a process was complete that any action was alleged. I’m also uncertain whether they’re using arrest records for charges that have been dropped in records that have been sealed.”"
+          },
+          {
+            "type": "text",
+            "value": "Jakobsen said there is a lack of evidence for how the University “ties specific students to specific actions,” leading to concerns of “communal punishment.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Barnard Amnesty, an amnesty campaign for Barnard student protesters facing suspension, three Barnard students had their disciplinary cases moved under the University Judicial Board—a five-member body that adjudicates Rules of University Conduct violations—for alleged participation in the occupation of Hamilton Hall. Each student faces 11 charges, according to a Sept. 6 <a href=\"https://www.instagram.com/p/C_mQDpdtWlN/?img_index=1\">Instagram post</a>."
+          },
+          {
+            "type": "text",
+            "value": "The Manhattan district attorney’s office <a href=\"https://www.columbiaspectator.com/news/2024/06/21/manhattan-das-office-dismisses-cases-against-30-hamilton-hall-protesters-14-due-to-reappear-in-court/\">dropped all charges</a> in July against individuals affiliated with the University at the time of their arrest for allegedly participating in the Hamilton Hall <a href=\"https://www.columbiaspectator.com/news/2024/04/30/dozens-occupy-hamilton-hall-as-pro-palestinian-protests-spread-across-campus/\">occupation</a>."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Maya Stahl can be contacted at </i><a href=\"mailto:maya.stahl@columbiaspectator.com\"><i>maya.stahl@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Laya Gollamudi can be contacted at </i><a href=\"mailto:laya.gollamudi@columbiaspectator.com\"><i>laya.gollamudi@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>.</i></b>"
           }
         ],
-        "headline": "The U.S. and Ivy League schools were late to respond to COVID-19.",
-        "date": "October 17, 2019",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Charlotte-Li\">Charlotte Li</a>\nEdited by <a href=\"https://www.columbiaspectator.com/contributors/Jun-Yi-Zhang\">Jun Yi Zhang</a>",
+        "headline": "Barnard faculty issues statements condemning interim sanctions, revised policies",
+        "date": "September 19, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/maya-stahl/\">Maya Stahl</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/laya-gollamudi/\">Laya Gollamudi</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/D3HKSZR42BCOTJPQMOISVVKXBI.jpg",
+        "cover_caption": "Asha Ahn / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
         "DOC_URL": "https://docs.google.com/document/d/1XGSLgEj4oaeSSm4IR1Ji7Khiob-fFGqmJylyCixQ194/edit"
       }

@@ -141,8 +141,6 @@ function init() {
                         var item = document.querySelector("#enrolled"+String(i)+"-2");
                         item.classList.add("fill-fade");
                         item.style.fill="#6B4E71";
-                        item.classList.add("move-fade-y");
-                        item.setAttribute("cy",Number(item.cy.baseVal.value)+10);
                     }
                     for (var i=1; i<=3; i++) {
                         var item = document.querySelector("#suspended"+String(i));
@@ -154,8 +152,6 @@ function init() {
                         var item = document.querySelector("#suspended"+String(i)+"-2");
                         item.classList.add("fill-fade");
                         item.style.fill="#6B4E71";
-                        item.classList.add("move-fade-y");
-                        item.setAttribute("cy",Number(item.cy.baseVal.value)-10);
                     }
                     for (var i=2; i<=18; i++) {
                         var item = document.querySelector("#enrolledtext-"+String(i));
@@ -228,6 +224,16 @@ function init() {
                         item.style.fill="#d3d3d3";
                         item.classList.add("move-fade");
                         item.setAttribute("cx",Number(item.cx.baseVal.value)-5);
+                    }
+                    for (var i=2; i<=35; i++) {
+                        var item = document.querySelector("#resolvedtext-"+String(i));
+                        item.classList.add("fill-fade");
+                        item.style.fill="#FFFFFF";
+                    }
+                    for (var i=2; i<=40; i++) {
+                        var item = document.querySelector("#pendingtext-"+String(i));
+                        item.classList.add("fill-fade");
+                        item.style.fill="#FFFFFF";
                     }
                     for (var i=37; i<=70; i++) {
                         var item = document.querySelector("#resolvedtext-"+String(i));
