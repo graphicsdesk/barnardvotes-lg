@@ -5,7 +5,7 @@ var last = 0;
 function init() {
     scroller
         .setup({
-            step: "#scrolly article .step",
+            step: "#scrolly .scrolly-overlay .step",
             offset: 0.45,
             debug: false,
         }) 
