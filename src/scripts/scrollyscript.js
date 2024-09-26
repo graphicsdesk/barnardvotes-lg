@@ -1,5 +1,5 @@
 import scrollama from "scrollama";
-var scroller = scrollama();
+const scroller = scrollama();
 var last = 0;
 
 function init() {
