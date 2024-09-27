@@ -544,21 +544,22 @@ header {
 }
 
 .step {
-  margin: 0 auto 2rem auto;
-  margin-bottom: 25rem;
-  background-color: #eee;
+  margin: 0;
+  margin-top:35vh;
+  margin-bottom:35vh;
+  margin-left:0;
+  margin-right:0;
+  color: #fff;
   background-color: #fff;
-  color: black;
-  border: 3px solid black;
+  border: 2px solid #000000;
 }
 
 .step p {
   text-align: center;
-  font-size: 1.3rem;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left:15px;
-  padding-right:15px;
+  padding: 1rem;
+  font-size: 19px;
+  background-color:#fff;
+  opacity:1;
 }
 
 .hidden { visibility: hidden; }
@@ -603,5 +604,9 @@ header {
   #scrolly.side-by-side .sticky-thing {
     order: 1;
     flex-grow: 2;
+  }
+  #scrolly.step p{
+    font-size:12px;
+    padding: 0rem;
   }
 }
